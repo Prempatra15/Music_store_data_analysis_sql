@@ -1,6 +1,6 @@
 # Music Store Data Analysis
 # Objective:-
-- ##### In this project I have examine the dataset with SQL and help the store understand its business growth.
+##### In this project I have examined the dataset with SQL and help the store understand its business growth.
 ## Features -
 ##### 1. Who is the senior most employee, find name and job title? 
 ##### 2. Which countries have the most Invoices?
